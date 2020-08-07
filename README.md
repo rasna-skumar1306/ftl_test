@@ -11,11 +11,11 @@ The UI consist of one page and 4 components
 * header
 * user
 
-***First run the ***
+***First run the***
 ``` 
 npm run json:server
 ``` 
-*** command and then run ***
+***command and then run***
 ```
 npm install -g serve
 serve -s build
