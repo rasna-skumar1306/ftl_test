@@ -18,3 +18,5 @@ I have used json-server package to run the dummy api and have loaded the data in
 ## App
 
 The gets the data from API through axios. And Use the Data to render the components. This runs on localhost 3000.
+
+** The Deploy ready fiels are in /Build folder.
