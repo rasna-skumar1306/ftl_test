@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.details {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  color: #ffffff;
+  font-family: 'Sriracha', cursive;
+  font-size: 1rem;
+  text-shadow: 2px 2px black;
+}
+
+.all-details {
+  color: #ffffff;
+  font-family: 'Sriracha', cursive;
+  text-shadow: 2px 2px black;
+}
+
+.tzone {
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 2px;
+}

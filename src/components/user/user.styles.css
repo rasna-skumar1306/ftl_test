@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.user-name {
+  color: whitesmoke;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: 2px 1px black;
+}

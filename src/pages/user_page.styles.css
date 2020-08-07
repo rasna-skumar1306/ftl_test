@@ -1,0 +1,16 @@
+.all-content {
+  display: grid;
+  padding: 2rem;
+  background-color: #202124;
+}
+
+.content {
+  margin: 2rem auto;
+  background-color: #4a4f5a;
+  padding: 2rem;
+  padding-top: 0.5rem;
+
+  border: 2px solid yellow;
+  border-radius: 2rem;
+  width: 40%;
+}

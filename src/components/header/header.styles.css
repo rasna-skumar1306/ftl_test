@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Oswald&family=Sriracha&display=swap');
+
+.header {
+  background-color: tomato;
+  padding: 0.3rem;
+  margin: 0 0 1rem;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.2rem;
+}
