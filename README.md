@@ -11,6 +11,8 @@ The UI consist of one page and 4 components
 * header
 * user
 
+*Kindly check the package.json before running the app*
+
 ***First run the***
 ``` 
 npm run json:server
