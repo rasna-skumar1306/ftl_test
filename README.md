@@ -11,9 +11,20 @@ The UI consist of one page and 4 components
 * header
 * user
 
+***First run the ***
+``` 
+npm run json:server
+``` 
+*** command and then run ***
+```
+npm install -g serve
+serve -s build
+serve -s build -l 4000
+```
+
 ## The Fake Api
 
-I have used json-server package to run the dummy api and have loaded the data into db.json. ***This runs on localhost:5000***.
+I have used json-server package to run the dummy api and have loaded the data into db.json. ***This runs on localhost:5000***. 
 
 ## App
 
