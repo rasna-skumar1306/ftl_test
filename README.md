@@ -2,7 +2,7 @@ This project is built using react js and nootstrapped using create-react-app.
 
 # FTL_TEST
 
-** First I have designed the UI and Loaded the Sample data.**
+** First I have designed the UI and Loaded the Sample data. **
 The UI consist of one page and 4 components
 * **Page** user_page
 * **Components**
